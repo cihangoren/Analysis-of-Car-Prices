@@ -14,7 +14,7 @@ Veri setine bu link üzerinden ulaşabilirsiniz: [Vehicle Sales Data](https://ww
 - Plotly
   
 # Elde Edilen Çıktılar:
-Veri setiyle alakalı bir kaç çıktıya bu kısımdan ulaşabilirsiniz. Eksik kısımlar için .ipynb uzantılı dosyaya tıklamanız yeterli. Canlı olan grafikler için .ipynb uzantılı dosyayı veri setiyle beraber bilgisayarınıza kurup incelemeniz gerekmektedir.
+Veri setiyle alakalı bazı çıktılara bu kısımdan ulaşabilirsiniz. Eksik kısımlar için .ipynb uzantılı dosyaya tıklamanız yeterli. Canlı olan grafikler için .ipynb uzantılı dosyayı veri setiyle beraber bilgisayarınıza kurup incelemeniz gerekmektedir.
 
 ![Alternatif Metin](https://i.hizliresim.com/le1ojhs.png)
 
